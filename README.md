@@ -1,5 +1,5 @@
 
-Este portafolio está en construcción y se irá actualizando con nuevos proyectos a medida que avance en mi formación y experiencia.
+
 
 
 
