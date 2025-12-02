@@ -1,5 +1,3 @@
-Bienvenido/a a mi portafolio de **Análisis de Datos**.  
-Aquí encontrarás ejemplos de proyectos y ejercicios desarrollados con diferentes herramientas y lenguajes, organizados para mostrar mi progreso y habilidades en el área.
 
 Este portafolio está en construcción y se irá actualizando con nuevos proyectos a medida que avance en mi formación y experiencia.
 
